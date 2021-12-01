@@ -14,3 +14,9 @@ Trabajo en grupo maximo 4 alumnos. Todos deben realizar la entrega
 La entrega se realiza especificando la url INDIVIDUAL de un repositorio de GitHub
 
 INTEGRANTES
+
+-Anabella Alexa Agazzi
+-Martina Larroza
+-Ignacio Federico Correa
+-Carlos Vazquez
+-Brian Lopez
