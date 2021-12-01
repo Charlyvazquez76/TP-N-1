@@ -1,5 +1,5 @@
 
-            TRABAJO PRACTICO
+                                   TRABAJO PRACTICO
 
 
 Hacer una calculadora. 
