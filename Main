@@ -1,5 +1,9 @@
 README.md
-#include <stdio.h> #include <stdlib.h> #include <string.h> #include <conio.h> #include "funciones.h"
+#include <stdio.h> 
+#include <stdlib.h> 
+#include <string.h> 
+#include <conio.h> 
+#include "funciones.h"
 
 #define MAGENTA "\x1b[35m" #define CYAN "\x1b[36m" #define RESET "\x1b[0m"
 
@@ -190,7 +194,8 @@ while(opcion!=9);
 return 0;
 }
 
-////////////////////////////////////////////////// //FUNCIONES ///////////////////////////////////////////////// void suma(int num1, int num2) {
+////////////////////////////////////////////////// //FUNCIONES ///////////////////////////////////////////////// 
+void suma(int num1, int num2) {
 
 int resultado = 0;
 
@@ -199,7 +204,9 @@ resultado = num1+num2;
 printf("La suma de X y Y es: %d",resultado);
 Beep(500,200);
 printf("\n \n");
-} //////////////////////////////////////// void resta(int num1, int num2) {
+} 
+//////////////////////////////////////// 
+void resta(int num1, int num2) {
 
 int resultado = 0;
 
@@ -208,7 +215,9 @@ resultado = num1-num2;
 printf("La resta de X y Y es: %d",resultado);
 Beep(500,200);//revisar float
 printf("\n \n");
-} //////////////////////////////////////// void division(float num1, float num2) {
+} 
+//////////////////////////////////////// 
+void division(float num1, float num2) {
 
 float resultado = 0;
 
